@@ -1,0 +1,41 @@
+{
+    "my_work": [
+        "\u0431\u0430\u0444",
+        "\u0430",
+        "\u0437",
+        "\u0443"
+    ],
+    "were_work": [
+        5
+    ],
+    "my_version": 0,
+    "gen": 4,
+    "lang_mode": "mix.py",
+    "work_mode": "ON",
+    "trigger": "\u0431\u043e\u0442",
+    "priffix": "?",
+    "reporting": 0,
+    "real_my_class": "\u0430\u043f\u043e\u0441\u0442\u043e\u043b",
+    "my_race": [
+        "Unknown"
+    ],
+    "my_effects": {
+        "\u0430": "\u0430\u0442\u0430\u043a\u0438",
+        "\u0437": "\u0437\u0430\u0449\u0438\u0442\u044b",
+        "\u0443": "\u0443\u0434\u0430\u0447\u0438",
+        "\u043e": "\u043e\u0440\u043a\u0430",
+        "\u0434": "\u0434\u0435\u043c\u043e\u043d\u0430",
+        "\u0447": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430",
+        "\u044d": "\u044d\u043b\u044c\u0444\u0430",
+        "\u043d": "\u043d\u0435\u0436\u0438\u0442\u0438",
+        "\u0433\u043d": "\u0433\u043d\u043e\u043c\u0430",
+        "\u0433\u043e": "\u0433\u043e\u0431\u043b\u0438\u043d\u0430"
+    },
+    "my_custom_commands": [],
+    "my_custom_reactions": [],
+    "my_voice": 0,
+    "wait_time": 3610,
+    "my_time": 0,
+    "token": "vk1.a.SYzUu2SRDVDwFLwKvA0UOJHLz7VMiIcuKnhpavePNpuRFQYtdw1yUslPLj1qum_pZ9InViLiyxWUeSCc7xPJshuF4BudCCXK1bXKOB8PVEb59IsUCeO7N6JZTBVVM7dHmy-Y1aSy8ENdzK1-KJRUhW_wXwhUMIZ8_5vguXvOKuXd35WRUSsf2tWoAQSXzfe-8PKGKXNzyLFPd68IXamO2Q",
+    "preffix": "!"
+}
